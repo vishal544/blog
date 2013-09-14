@@ -235,3 +235,6 @@ a:hover {
   font-size: 12px;
   list-style: square;
 }
+.article {
+  border: 1px solid black;
+}
